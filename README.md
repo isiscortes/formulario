@@ -1,6 +1,5 @@
 # formulario
 
-Formulario
 
 Caja 
 
